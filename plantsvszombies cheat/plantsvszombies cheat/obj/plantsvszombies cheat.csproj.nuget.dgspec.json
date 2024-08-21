@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Faris\\source\\repos\\plantsvszombies cheat\\plantsvszombies cheat\\plantsvszombies cheat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Faris\\source\\repos\\plantsvszombies cheat\\plantsvszombies cheat\\plantsvszombies cheat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faris\\source\\repos\\plantsvszombies cheat\\plantsvszombies cheat\\plantsvszombies cheat.csproj",
+        "projectName": "plantsvszombies cheat",
+        "projectPath": "C:\\Users\\Faris\\source\\repos\\plantsvszombies cheat\\plantsvszombies cheat\\plantsvszombies cheat.csproj",
+        "packagesPath": "C:\\Users\\Faris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faris\\source\\repos\\plantsvszombies cheat\\plantsvszombies cheat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Faris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.91.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Veldrid.ImGui": {
+              "target": "Package",
+              "version": "[5.72.0, )"
+            },
+            "Vortice.D3DCompiler": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "Vortice.Mathematics": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "swed32": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
